@@ -1,0 +1,69 @@
+body{
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: cover;
+    background-image: url("https://www.unitins.br/cms/Arquivos/Download/5");
+
+}
+a:link {
+    text-decoration: None;
+}
+.Text-1 {
+        font-size: 2em;
+        font-weight: bold;
+        color: black;
+        cursor: pointer;
+        margin-left: 519px;
+        display: inline-block;
+        text-align: center;
+}
+.Text-2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    flex-direction: row;
+    padding-left:15px;
+    display:inline-block;
+    text-align: center;
+}
+.Text-3{
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    padding-left:15px;
+    text-align: center;
+    background-color: white;
+    display:inline-block
+
+} 
+.Text-4 {
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    padding-left:15px;
+    display:inline-block;
+    text-align: center;
+}
+.Text-5 {
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    padding-left:15px;
+    display:inline-block;
+    text-align: center;
+    margin-right: 518px;
+}
+div {
+    background-color: white;
+    display: flex;
+    top: 0;
+    
+}
+
